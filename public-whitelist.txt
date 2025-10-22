@@ -16,7 +16,7 @@
 @@||googlevideo.com^
 
 # YouTube App iOS
-@@||www.googleapis.com ^
+@@||www.googleapis.com^
 @@||youtubei.googleapis.com^
 @@||oauthaccountmanager.googleapis.com^
 
