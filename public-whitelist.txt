@@ -60,3 +60,6 @@ googleapis.l.google.com^
 
 # DPD Tracking
 @@||tracking.dpd.de^
+
+# test
+@@||lego.com^
