@@ -57,3 +57,6 @@ googleapis.l.google.com
 @@||api.directory.signal.org
 @@||contentproxy.signal.org
 @@||turn1.whispersystems.org
+
+# DPD Tracking
+@@||tracking.dpd.de
