@@ -21,7 +21,7 @@
 @@||oauthaccountmanager.googleapis.com^
 
 # Gmail iOS
-googleapis.l.google.com^
+@@||googleapis.l.google.com^
 
 # Apple Music
 @@||itunes.apple.com^
