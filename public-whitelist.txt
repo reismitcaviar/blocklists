@@ -4,59 +4,59 @@
 #=====================================
 
 # Google Maps + Google services
-@@||clients4.google.com
-@@||clients2.google.com
+@@||clients4.google.com^
+@@||clients2.google.com^
 
 # YouTube
-@@||youtube.com
-@@||www.youtube.com
-@@||s.youtube.com 
-@@||video-stats.l.google.com
-@@||ytimg.com
-@@||googlevideo.com
+@@||youtube.com^
+@@||www.youtube.com^
+@@||s.youtube.com^
+@@||video-stats.l.google.com^
+@@||ytimg.com^
+@@||googlevideo.com^
 
 # YouTube App iOS
-@@||www.googleapis.com 
-@@||youtubei.googleapis.com
-@@||oauthaccountmanager.googleapis.com
+@@||www.googleapis.com ^
+@@||youtubei.googleapis.com^
+@@||oauthaccountmanager.googleapis.com^
 
 # Gmail iOS
-googleapis.l.google.com
+googleapis.l.google.com^
 
 # Apple Music
-@@||itunes.apple.com
-@@||s.mzstatic.com
+@@||itunes.apple.com^
+@@||s.mzstatic.com^
 
 # Apple ID
-@@||appleid.apple.com
+@@||appleid.apple.com^
 
 # iOS Weather app
-@@||gsp-ssl.ls.apple.com
-@@||gsp-ssl.ls-apple.com.akadns.net
+@@||gsp-ssl.ls.apple.com^
+@@||gsp-ssl.ls-apple.com.akadns.net^
 
 # Spotify
-@@||spclient.wg.spotify.com apresolve.spotify.com
+@@||spclient.wg.spotify.com apresolve.spotify.com^
 
 # Mozilla Firefox Tracking Protection
-@@||tracking-protection.cdn.mozilla.net
+@@||tracking-protection.cdn.mozilla.net^
 
 # Signal
-@@||ud-chat.signal.org
-@@||chat.signal.org
-@@||storage.signal.org
-@@||signal.org
-@@||www.signal.org
-@@||updates2.signal.org
-@@||textsecure-service-whispersystems.org
-@@||giphy-proxy-production.whispersystems.org
-@@||cdn.signal.org
-@@||whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
-@@||d83eunklitikj.cloudfront.net
-@@||souqcdn.com
-@@||cms.souqcdn.com
-@@||api.directory.signal.org
-@@||contentproxy.signal.org
-@@||turn1.whispersystems.org
+@@||ud-chat.signal.org^
+@@||chat.signal.org^
+@@||storage.signal.org^
+@@||signal.org^
+@@||www.signal.org^
+@@||updates2.signal.org^
+@@||textsecure-service-whispersystems.org^
+@@||giphy-proxy-production.whispersystems.org^
+@@||cdn.signal.org^
+@@||whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com^
+@@||d83eunklitikj.cloudfront.net^
+@@||souqcdn.com^
+@@||cms.souqcdn.com^
+@@||api.directory.signal.org^
+@@||contentproxy.signal.org^
+@@||turn1.whispersystems.org^
 
 # DPD Tracking
-@@||tracking.dpd.de
+@@||tracking.dpd.de^
