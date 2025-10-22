@@ -35,7 +35,8 @@
 @@||gsp-ssl.ls-apple.com.akadns.net^
 
 # Spotify
-@@||spclient.wg.spotify.com apresolve.spotify.com^
+@@||spclient.wg.spotify.com^
+@@||apresolve.spotify.com^
 
 # Mozilla Firefox Tracking Protection
 @@||tracking-protection.cdn.mozilla.net^
